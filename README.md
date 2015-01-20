@@ -20,6 +20,7 @@ Quem sabe movendo ele para essa organização a gente consiga ajudar. Crie uma i
 
 Como forma de manter uma padronização no código é extremamente recomendado que seus projetos a serem transferidos para nossa comunidade esteja bem escrito, seguem alguns materiais em português para referência:
 
-[Princípios para escrever JavaScript de forma Consistente e Idiomática](https://github.com/rwaldron/idiomatic.js/tree/master/translations/pt_BR)
-[Princípios para escrever CSS de forma consistente e idiomática](https://github.com/necolas/idiomatic-css/tree/master/translations/pt-BR)
+[Princípios para escrever JavaScript de forma Consistente e Idiomática](https://github.com/rwaldron/idiomatic.js/tree/master/translations/pt_BR);
+
+[Princípios para escrever CSS de forma consistente e idiomática](https://github.com/necolas/idiomatic-css/tree/master/translations/pt-BR);
 
