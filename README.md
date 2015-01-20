@@ -17,3 +17,9 @@ Esse grupo de pessoas terá controle total sobre o projeto e como ele deve ser e
 Você tem uma boa ideia e já começou a trabalhar nela? Precisa de mais visibilidade para que outras pessoas colaborem nesse projeto?
 
 Quem sabe movendo ele para essa organização a gente consiga ajudar. Crie uma issue descrevendo como seu projeto pode beneficiar a comunidade junto com a URL do repositório.
+
+Como forma de manter uma padronização no código é extremamente recomendado que seus projetos a serem transferidos para nossa comunidade esteja bem escrito, seguem alguns materiais em português para referência:
+
+[Princípios para escrever JavaScript de forma Consistente e Idiomática](https://github.com/rwaldron/idiomatic.js/tree/master/translations/pt_BR)
+[Princípios para escrever CSS de forma consistente e idiomática](https://github.com/necolas/idiomatic-css/tree/master/translations/pt-BR)
+
